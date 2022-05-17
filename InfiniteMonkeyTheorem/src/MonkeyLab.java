@@ -36,8 +36,6 @@ public class MonkeyLab {
 			e.printStackTrace();
 		}*/
 		
-		//testing branches
-		
 		for(int i = 0; i < 20; i++)
 		{
 			
